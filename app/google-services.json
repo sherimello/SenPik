@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "500649435472",
+    "firebase_url": "https://senpik.firebaseio.com",
+    "project_id": "senpik",
+    "storage_bucket": "senpik.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500649435472:android:ecce27719a1941b8fa0c55",
+        "android_client_info": {
+          "package_name": "com.example.senpik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500649435472-0etl2ne1b0beerle01ch0km8tgjlotva.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.senpik",
+            "certificate_hash": "227df4880d5e1bd795e8a1fd75d117acf03d6255"
+          }
+        },
+        {
+          "client_id": "500649435472-l6u2k8es6f3d7kk8dv3905g0q8s1shf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxJWYX5f6_BjrOHmxpjU3MWswykGXGFwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500649435472-l6u2k8es6f3d7kk8dv3905g0q8s1shf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
